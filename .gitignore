@@ -1,0 +1,13 @@
+# Maven target directory
+/target/
+
+# OS files
+.DS_Store
+
+# IDE files
+.idea/
+*.iml
+*.log
+
+# Other
+*.class 
