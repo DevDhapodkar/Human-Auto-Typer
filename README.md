@@ -2,6 +2,8 @@
 
 A Java-based application that simulates human-like typing behavior.
 
+> **Note**: This is a private repository. The source code is not publicly available, but you can download the latest release from the [releases page](https://github.com/DevDhapodkar/Human-Auto-Typer/releases).
+
 ## Installation
 
 ### Windows
