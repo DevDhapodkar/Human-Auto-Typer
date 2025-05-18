@@ -1,60 +1,41 @@
 # AutoTyper
 
-A Java-based application for automated typing.
+A Java-based application that simulates human-like typing behavior.
 
 ## Installation
 
-### Windows Users
+### Windows
+1. Download the latest `AutoTyper.zip` from the [releases](https://github.com/DevDhapodkar/Human-Auto-Typer/releases) page
+2. Extract the zip file to a location of your choice
+3. Run `setup.bat` as administrator
+4. A desktop shortcut will be created automatically
+5. Launch AutoTyper using the desktop shortcut
 
-1. Make sure you have Java 17 or later installed
-   - Download from: https://adoptium.net/
-   - Run the installer and follow the instructions
-
-2. Download the latest release from the releases page
-
-3. Extract the downloaded zip file
-
-4. Run `setup.bat` as administrator
-   - This will install the application to your local AppData folder
-   - Create desktop shortcuts
-   - Set up the necessary files
-
-5. You can now run AutoTyper from your desktop shortcut
-
-### Manual Installation (Alternative)
-
-If you prefer to run the application manually:
-
-1. Make sure you have Java 17 or later installed
-2. Download the latest release
-3. Extract the files
-4. Run the application using:
-   ```
-   java -jar autotyper-1.0-SNAPSHOT.jar
-   ```
+### macOS
+1. Download the latest `AutoTyper.dmg` from the [releases](https://github.com/DevDhapodkar/Human-Auto-Typer/releases) page
+2. Double-click the DMG file to mount it
+3. Drag the AutoTyper application to your Applications folder
+4. Launch AutoTyper from your Applications folder
 
 ## Requirements
 
-- Java 17 or later
-- Windows 10/11
+### Windows
+- Windows 10 or later
+- Java Runtime Environment (JRE) 17 or later
+- Administrator privileges for installation
 
-## Troubleshooting
+### macOS
+- macOS 10.15 (Catalina) or later
+- Java Runtime Environment (JRE) 17 or later
 
-If you encounter any issues:
+## Features
+- Human-like typing simulation
+- Customizable typing speed
+- Support for multiple languages
+- Easy-to-use interface
 
-1. Make sure Java is properly installed
-   - Open Command Prompt
-   - Type `java -version`
-   - You should see Java version 17 or later
-
-2. If the application doesn't start:
-   - Check if all files were copied correctly
-   - Try running the jar file directly using the command above
-
-3. If you get any error messages:
-   - Make sure you have the latest version
-   - Check if all dependencies are present in the lib folder
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Support
-
-For issues and feature requests, please visit our GitHub repository. 
+For issues and feature requests, please visit our [GitHub Issues](https://github.com/DevDhapodkar/Human-Auto-Typer/issues) page. 
