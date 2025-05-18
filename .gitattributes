@@ -1,0 +1,10 @@
+# Prevent GitHub from generating source code archives
+* -text
+*.java -text
+*.class -text
+*.jar -text
+*.zip -text
+*.tar.gz -text
+*.dmg -text
+*.exe -text
+*.msi -text 
