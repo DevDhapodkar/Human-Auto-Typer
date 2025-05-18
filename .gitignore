@@ -1,13 +1,41 @@
-# Maven target directory
+# Maven
 /target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+# Source code
+/src/
+*.java
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Build files
+/build/
+/dist/
+*.dmg
+*.app/
 
 # OS files
 .DS_Store
+Thumbs.db
 
 # IDE files
 .idea/
 *.iml
+*.iws
+*.ipr
+.vscode/
 *.log
 
-# Other
-*.class 
+# Scripts
+*.sh
+*.bat 
